@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T04:47:27.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XU5barYv8il8IezfvNES" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T04:48:41.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZuTRK88v56NVN_WYdxNd" version="22.0.4" type="github">
   <diagram name="Page-1" id="RJbHu5sxq5I47JQGmV-o">
     <mxGraphModel dx="1644" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
             <mxPoint x="310" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7NolPieeRoY720Yne-j5-23" value="Show user details popup" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="B1Z8W7b9JruNJQS_tEDy-1">
+        <mxCell id="7NolPieeRoY720Yne-j5-23" value="Show user details popup&lt;br&gt;for seamless login" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="B1Z8W7b9JruNJQS_tEDy-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="530" as="sourcePoint" />
             <mxPoint x="220" y="530" as="targetPoint" />
@@ -165,7 +165,7 @@
             <mxPoint x="310" y="694.5" as="sourcePoint" />
             <mxPoint x="390" y="694.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="680" />
+              <mxPoint x="410" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>

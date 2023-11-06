@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T04:02:15.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DRn14kQ91DA0Cb1UWBQP" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T05:49:17.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mZUj0URiaOULuhW727Fl" version="22.0.8" type="github">
   <diagram name="Page-1" id="CClTeOzFcM-MpxlsosYA">
     <mxGraphModel dx="1221" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="740" y="60" width="100" height="750" as="geometry" />
         </mxCell>
         <mxCell id="GykgwWgZM8A0xQCMrxdU-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="GykgwWgZM8A0xQCMrxdU-5">
-          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GykgwWgZM8A0xQCMrxdU-6" value="customer review&amp;nbsp;&lt;br&gt;and submit details&lt;br&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="GykgwWgZM8A0xQCMrxdU-22">
           <mxGeometry x="-1" y="-10" width="80" relative="1" as="geometry">
@@ -85,7 +85,7 @@
         </mxCell>
         <mxCell id="GykgwWgZM8A0xQCMrxdU-31" value="login/validateOTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GykgwWgZM8A0xQCMrxdU-23">
           <mxGeometry x="-0.056" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GykgwWgZM8A0xQCMrxdU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GykgwWgZM8A0xQCMrxdU-22" target="GykgwWgZM8A0xQCMrxdU-25">
@@ -102,6 +102,22 @@
         </mxCell>
         <mxCell id="GykgwWgZM8A0xQCMrxdU-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;changed &lt;br&gt;email or &lt;br&gt;mobile&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GykgwWgZM8A0xQCMrxdU-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="785" y="320" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GykgwWgZM8A0xQCMrxdU-43" value="Get NRIC using sessiontoken" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0041" width="80" relative="1" as="geometry">
+            <mxPoint x="325" y="330" as="sourcePoint" />
+            <mxPoint x="789.5" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GykgwWgZM8A0xQCMrxdU-44" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="350" as="sourcePoint" />
+            <mxPoint x="320" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

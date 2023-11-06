@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T09:51:07.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kRVftPcligmm3neFNsqD" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-06T09:54:15.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2sIEuaFmbOZ-jaTzSR7U" version="22.0.8" type="github" pages="2">
   <diagram name="My profile view page" id="ZOTNxVWqdp8Iby1wj_XK">
     <mxGraphModel dx="1311" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4xifht4MYf5TgWmhiL9J" name="My profile edit">
-    <mxGraphModel dx="1114" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

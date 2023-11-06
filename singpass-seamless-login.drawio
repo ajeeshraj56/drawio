@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T04:00:26.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_2JwDlSBLJhJZ5RFP_SL" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T04:02:15.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DRn14kQ91DA0Cb1UWBQP" version="22.0.8" type="github">
   <diagram name="Page-1" id="CClTeOzFcM-MpxlsosYA">
     <mxGraphModel dx="1221" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,9 +83,9 @@
         <mxCell id="GykgwWgZM8A0xQCMrxdU-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GykgwWgZM8A0xQCMrxdU-22" target="GykgwWgZM8A0xQCMrxdU-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GykgwWgZM8A0xQCMrxdU-30" value="&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(251, 251, 251);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: rgb(251, 251, 251);&quot;&gt;login/validateOTP&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GykgwWgZM8A0xQCMrxdU-23">
-          <mxGeometry x="-0.264" y="1" relative="1" as="geometry">
-            <mxPoint x="14" y="-19" as="offset" />
+        <mxCell id="GykgwWgZM8A0xQCMrxdU-31" value="login/validateOTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GykgwWgZM8A0xQCMrxdU-23">
+          <mxGeometry x="-0.056" y="-1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GykgwWgZM8A0xQCMrxdU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GykgwWgZM8A0xQCMrxdU-22" target="GykgwWgZM8A0xQCMrxdU-25">

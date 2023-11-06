@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T08:33:22.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6kCoKOE8-rGb0UFMA-ul" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-06T08:35:43.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="u8WzunJ_WmcP-TH9f9CR" version="22.0.8" type="github" pages="2">
   <diagram name="My profile view page" id="ZOTNxVWqdp8Iby1wj_XK">
     <mxGraphModel dx="1311" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
             <mxPoint x="40" y="229.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bEWPIV6gzk5QyZiWl_G--11" value="user submits&amp;nbsp;&lt;br&gt;account/generateOTP" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="bEWPIV6gzk5QyZiWl_G--11" value="validate the input and&lt;br&gt;&amp;nbsp;user click submit button&amp;nbsp;&lt;br&gt;account/generateOTP" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="40" y="290" as="sourcePoint" />
             <mxPoint x="210" y="290" as="targetPoint" />

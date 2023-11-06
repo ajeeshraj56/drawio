@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T09:08:12.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="37-hrsC7PEKXKs1o26Zf" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-06T09:09:36.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NYTqtZaI9F6Iz-HGXUxn" version="22.0.8" type="github" pages="2">
   <diagram name="My profile view page" id="ZOTNxVWqdp8Iby1wj_XK">
     <mxGraphModel dx="1311" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -338,6 +338,12 @@
               <mxPoint x="320" y="790" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bEWPIV6gzk5QyZiWl_G--51" value="ICM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="70" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWPIV6gzk5QyZiWl_G--54" value="Redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="70" height="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

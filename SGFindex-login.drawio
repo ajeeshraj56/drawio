@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T17:12:44.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QSn4qxP4VvdZNIXI1ylg" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-09T17:15:38.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-aur_vtLg0C8Be_KhSR3" version="22.1.17" type="github" pages="3">
   <diagram name="Page-1" id="0a-kXXliiW2lC1thkJgB">
     <mxGraphModel dx="936" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,8 +241,8 @@
         <mxCell id="r7dPWTgSB13ry-8cWrX_-36" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Get Mobile no&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#00994D;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="280" y="675" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r7dPWTgSB13ry-8cWrX_-37" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;authn/login&lt;br style=&quot;font-size: 9px;&quot;&gt;generate OTP using &lt;br style=&quot;font-size: 9px;&quot;&gt;entity mobile&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontColor=#00994D;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r7dPWTgSB13ry-8cWrX_-46" target="r7dPWTgSB13ry-8cWrX_-9">
-          <mxGeometry x="-0.3333" width="80" relative="1" as="geometry">
+        <mxCell id="r7dPWTgSB13ry-8cWrX_-37" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;authn/login generate OTP using &lt;br style=&quot;font-size: 9px;&quot;&gt;entity mobile&lt;br&gt;UP realm -&amp;nbsp;&lt;/font&gt;SGFE2EE&lt;br&gt;SNACK realm -&amp;nbsp;SGFE2EE2" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontColor=#00994D;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r7dPWTgSB13ry-8cWrX_-46" target="r7dPWTgSB13ry-8cWrX_-9">
+          <mxGeometry x="-0.1667" width="80" relative="1" as="geometry">
             <mxPoint x="260" y="840" as="sourcePoint" />
             <mxPoint x="320" y="830" as="targetPoint" />
             <Array as="points">

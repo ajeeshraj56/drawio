@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T09:59:05.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4e2dW0Cydrtn6mz3XeSw" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:02:53.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8chiIzYd-FiUSTu1t1KW" version="22.1.18" type="github">
   <diagram name="Page-1" id="w6ryiPvK24-abp0Cc746">
     <mxGraphModel dx="936" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,25 +8,25 @@
           <mxGeometry x="330" y="-110" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-1040" width="20" height="300" as="geometry" />
+          <mxGeometry x="110" y="-1040" width="20" height="340" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-3" value="up-web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-1040" width="100" height="300" as="geometry" />
+          <mxGeometry x="290" y="-1040" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="yRMbKKYwfMMUedzel-1i-3">
-          <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-4" value="up-identity" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-1040" width="100" height="300" as="geometry" />
+          <mxGeometry x="480" y="-1040" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="yRMbKKYwfMMUedzel-1i-4">
           <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-5" value="up-wcms" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-1040" width="100" height="300" as="geometry" />
+          <mxGeometry x="650" y="-1040" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="yRMbKKYwfMMUedzel-1i-5">
-          <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="180" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-7" value="Redirect using below url&lt;br&gt;/up-redirect?appSource=incomeapp&amp;amp;&lt;br&gt;page=/distribution-records" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#006633;fontColor=#006633;" edge="1" target="yRMbKKYwfMMUedzel-1i-6" parent="1" source="yRMbKKYwfMMUedzel-1i-2">
           <mxGeometry relative="1" as="geometry">
@@ -45,20 +45,32 @@
             <mxPoint x="345" y="-880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRMbKKYwfMMUedzel-1i-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="yRMbKKYwfMMUedzel-1i-16" target="yRMbKKYwfMMUedzel-1i-2">
+        <mxCell id="yRMbKKYwfMMUedzel-1i-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="yRMbKKYwfMMUedzel-1i-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="-880" as="sourcePoint" />
-            <mxPoint x="250" y="-880" as="targetPoint" />
+            <mxPoint x="340" y="-812" as="sourcePoint" />
+            <mxPoint x="119.5" y="-812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="-878.3636363636364" as="sourcePoint" />
-            <mxPoint x="290" y="-878.3636363636364" as="targetPoint" />
+            <mxPoint x="335" y="-810.3636363636364" as="sourcePoint" />
+            <mxPoint x="290" y="-810.3636363636364" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yRMbKKYwfMMUedzel-1i-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;If session and redirect&lt;br&gt;url is valid, then redirect to the requested page or redirect to not found&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#006633;strokeColor=#006633;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-910" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="-842" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yRMbKKYwfMMUedzel-1i-20" value="get feconfig list" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontColor=#006633;strokeColor=#006633;" edge="1" parent="1" source="yRMbKKYwfMMUedzel-1i-6" target="yRMbKKYwfMMUedzel-1i-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="360" y="-840" as="sourcePoint" />
+            <mxPoint x="545" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yRMbKKYwfMMUedzel-1i-21" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeColor=#006666;" edge="1" parent="1" source="yRMbKKYwfMMUedzel-1i-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="-810" as="sourcePoint" />
+            <mxPoint x="345" y="-810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

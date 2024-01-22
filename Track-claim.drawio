@@ -1,23 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T03:11:43.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eoKtLODCLU6DKATF6b3r" version="22.1.21" type="github">
-  <diagram name="Page-1" id="_X6rwnfkPYz05utxLvBB">
+<mxfile host="app.diagrams.net" modified="2024-01-22T03:16:01.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ME1PLIPJ5v1BGNmDTYtj" version="22.1.21" type="github">
+  <diagram name="Life" id="_X6rwnfkPYz05utxLvBB">
     <mxGraphModel dx="936" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XziAAYNCrriLN55fOuOS-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+        <mxCell id="XziAAYNCrriLN55fOuOS-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
           <mxGeometry x="30" y="80" width="20" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="XziAAYNCrriLN55fOuOS-2" value="up-web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="XziAAYNCrriLN55fOuOS-2" value="up-web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
           <mxGeometry x="150" y="80" width="100" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="XziAAYNCrriLN55fOuOS-3" value="up-claim" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="XziAAYNCrriLN55fOuOS-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="XziAAYNCrriLN55fOuOS-2">
+          <mxGeometry x="45" y="100" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XziAAYNCrriLN55fOuOS-3" value="up-claim" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
           <mxGeometry x="325" y="80" width="100" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="XziAAYNCrriLN55fOuOS-4" value="up-policy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="100" height="600" as="geometry" />
+        <mxCell id="XziAAYNCrriLN55fOuOS-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="XziAAYNCrriLN55fOuOS-3">
+          <mxGeometry x="45" y="100" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XziAAYNCrriLN55fOuOS-5" value="ODS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="630" y="80" width="100" height="600" as="geometry" />
+        <mxCell id="XziAAYNCrriLN55fOuOS-4" value="up-policy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="XziAAYNCrriLN55fOuOS-5" value="ODS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="730" y="80" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="XziAAYNCrriLN55fOuOS-9" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#006633;fontColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XziAAYNCrriLN55fOuOS-10" value="User selects&lt;br&gt;Track life claim" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeColor=#006633;fontColor=#006633;" edge="1" parent="1" target="XziAAYNCrriLN55fOuOS-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="40" y="190" as="sourcePoint" />
+            <mxPoint x="190" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XziAAYNCrriLN55fOuOS-11" value="type=&#39;life&#39;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;strokeColor=#006633;fontColor=#006633;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="205" y="191" as="sourcePoint" />
+            <mxPoint x="370" y="191" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

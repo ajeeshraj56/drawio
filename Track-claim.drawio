@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T04:03:39.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s6rDhTu-BR6b0QaMrQH7" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T04:05:44.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="K9c1bHvBU8U8QbSV8-Mj" version="22.1.21" type="github">
   <diagram name="Life" id="_X6rwnfkPYz05utxLvBB">
     <mxGraphModel dx="936" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q7teAE-D9YISWqyMQSjv-24" value="Filter out the policies from track claim list&lt;br&gt;which is not available in UP summary policies" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#006633;fontColor=#006633;fontSize=10;" edge="1" parent="1">
+        <mxCell id="Q7teAE-D9YISWqyMQSjv-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. Filter out the policies from track claim list&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; which is not available in UP summary policies&lt;br&gt;2. Remove duplocate claim records based on claim number&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#006633;fontColor=#006633;fontSize=10;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="510" as="sourcePoint" />
             <Array as="points">

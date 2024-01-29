@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T03:25:01.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="j_vkW8TcjZoPV7LkR1kk" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T03:31:48.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="m43L0fhRlrdRPY2E7aoB" version="23.0.2" type="github">
   <diagram name="Page-1" id="ukA0F4SWRje2rj7lY2_e">
-    <mxGraphModel dx="638" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2553" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="ESVSbIxXklOT70kNcV42-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=10;" parent="ESVSbIxXklOT70kNcV42-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="wgJ0XbnM3YGV2N-beF-w-13" value="process the data" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="ESVSbIxXklOT70kNcV42-8" parent="ESVSbIxXklOT70kNcV42-5" source="ESVSbIxXklOT70kNcV42-8">
+        <mxCell id="wgJ0XbnM3YGV2N-beF-w-13" value="process the data" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=10;" edge="1" target="ESVSbIxXklOT70kNcV42-8" parent="ESVSbIxXklOT70kNcV42-5" source="ESVSbIxXklOT70kNcV42-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="150" as="sourcePoint" />
             <Array as="points">
@@ -83,7 +83,7 @@
             <mxPoint x="595" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgJ0XbnM3YGV2N-beF-w-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="wgJ0XbnM3YGV2N-beF-w-10" value="user redirected to renewal&lt;br&gt;details page. Modify button&lt;br&gt;will be display based on the flag from&amp;nbsp;&lt;br&gt;ebao" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="260" as="sourcePoint" />
             <mxPoint x="79.5" y="260" as="targetPoint" />

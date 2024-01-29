@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T03:47:58.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Qr8Qhp75TLXvnwWdcs6M" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T03:51:40.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U4FTCRif2WbVqmXGMH1x" version="23.0.2" type="github">
   <diagram name="Page-1" id="ukA0F4SWRje2rj7lY2_e">
-    <mxGraphModel dx="936" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,16 +59,16 @@
             <mxPoint x="340" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgJ0XbnM3YGV2N-beF-w-5" value="eBaoGI_Renewal/retrieve" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=10;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="wgJ0XbnM3YGV2N-beF-w-5" value="eBaoGI_Renewal/retrieve" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=10;" edge="1" parent="1" target="ESVSbIxXklOT70kNcV42-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="405" y="176" as="sourcePoint" />
-            <mxPoint x="535" y="176" as="targetPoint" />
+            <mxPoint x="610" y="176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgJ0XbnM3YGV2N-beF-w-6" value="getrenewaldetails" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=10;exitX=0.6;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wgJ0XbnM3YGV2N-beF-w-17">
+        <mxCell id="wgJ0XbnM3YGV2N-beF-w-6" value="getrenewaldetails" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="595" y="180" as="sourcePoint" />
-            <mxPoint x="745.5" y="180" as="targetPoint" />
+            <mxPoint x="675" y="177" as="sourcePoint" />
+            <mxPoint x="785" y="177" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wgJ0XbnM3YGV2N-beF-w-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=10;" edge="1" parent="1" source="wgJ0XbnM3YGV2N-beF-w-1">
@@ -77,21 +77,21 @@
             <mxPoint x="245" y="210.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgJ0XbnM3YGV2N-beF-w-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=10;" edge="1" parent="1">
+        <mxCell id="wgJ0XbnM3YGV2N-beF-w-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=10;" edge="1" parent="1" source="wgJ0XbnM3YGV2N-beF-w-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="535" y="210" as="sourcePoint" />
             <mxPoint x="405" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgJ0XbnM3YGV2N-beF-w-9" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=10;" edge="1" parent="1" source="ESVSbIxXklOT70kNcV42-3" target="wgJ0XbnM3YGV2N-beF-w-18">
+        <mxCell id="wgJ0XbnM3YGV2N-beF-w-9" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="220" as="sourcePoint" />
-            <mxPoint x="595" y="217" as="targetPoint" />
+            <mxPoint x="785" y="211" as="sourcePoint" />
+            <mxPoint x="675" y="211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wgJ0XbnM3YGV2N-beF-w-10" value="user redirected to renewal&lt;br&gt;details page. Modify button&lt;br&gt;will be display based on the flag from&amp;nbsp;&lt;br&gt;ebao" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=10;" edge="1" parent="1">
-          <mxGeometry x="0.779" y="-10" relative="1" as="geometry">
-            <mxPoint x="265" y="260" as="sourcePoint" />
+          <mxGeometry x="0.2219" y="-10" relative="1" as="geometry">
+            <mxPoint x="235" y="260" as="sourcePoint" />
             <mxPoint x="79.5" y="260" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -104,9 +104,6 @@
         </mxCell>
         <mxCell id="wgJ0XbnM3YGV2N-beF-w-17" value="up-wcms" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="490" y="80" width="100" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="wgJ0XbnM3YGV2N-beF-w-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=10;" vertex="1" parent="wgJ0XbnM3YGV2N-beF-w-17">
-          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wgJ0XbnM3YGV2N-beF-w-19" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=10;" vertex="1" parent="wgJ0XbnM3YGV2N-beF-w-17">
           <mxGeometry x="45" y="240" width="10" height="110" as="geometry" />
